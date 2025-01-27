@@ -8,15 +8,18 @@ A simple, responsive, and user-friendly To-do L ist application built with HTML,
 
 ## Features
 
----
 
-### Add tasks: Enter tasks using the input field and add them to the list.
+### Add tasks: 
+Enter tasks using the input field and add them to the list.
 
-### Mark tasks as complete: Click on a task to toggle between completed and uncompleted states.
+### Mark tasks as complete:
+ Click on a task to toggle between completed and uncompleted states.
 
-### Delete tasks: Remove unwanted tasks with a single click.
+### Delete tasks:
+ Remove unwanted tasks with a single click.
 
-### Persistent data: Tasks are saved in the browser's local storage, so they remain even after the page is refreshed.
+### Persistent data:
+ Tasks are saved in the browser's local storage, so they remain even after the page is refreshed.
 
 
 
@@ -24,11 +27,14 @@ A simple, responsive, and user-friendly To-do L ist application built with HTML,
 
 ## Technologies Used
 
-### HTML5: Structuring the app's content and layout.
+### HTML5:
+ Structuring the app's content and layout.
 
-### CSS3: Styling the app for a visually appealing and responsive design.
+### CSS3:
+ Styling the app for a visually appealing and responsive design.
 
-### JavaScript: Providing interactivity, task management, and local storage integration.
+### JavaScript:
+ Providing interactivity, task management, and local storage integration.
 
 
 
